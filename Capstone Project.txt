@@ -1,0 +1,6 @@
+Module 1 - Data Platform Architecture and OLTP Database
+Module 2 - Querying Data in NoSQL Databases
+Module 3 - Build a Data Warehouse
+Module 4 - Data Analytics
+Module 5 - ETL & Data Pipelines
+Module 6 - Big Data Analytics with Spark
